@@ -22,13 +22,13 @@ const MyProjects = () => {
     {
       id: 2,
       image: project2,
-      title: "Top 15+ JavaScript Projects",
+      title: "Course Bundler",
       description: [
         "Created 18+ interactive JS projects for learning.",
         "Live previews and easy code download.",
         "Boosted user engagement with hands-on projects.",
       ],
-      link: "https://github.com/adityarajmishraji/Gym_Management_System",
+      link: "https://github.com/adityarajmishraji/course_bundler",
       tags: ["Html", "Css", "JavaScript"],
     },
     {
