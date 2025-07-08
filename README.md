@@ -31,6 +31,8 @@ This is a React-based portfolio project configured for GitHub Pages deployment.
    ```
    Then upload the contents of the `build` folder to your web host.
 
+   Also I tried to deploy manually on netlify, here you can check it out:- https://adityamishraji.netlify.app/
+
 ## Important Notes
 
 - The project is pre-configured for GitHub Pages in package.json
