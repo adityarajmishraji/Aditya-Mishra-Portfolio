@@ -101,7 +101,7 @@ const Footer = () => {
           Copyright &copy; 2025; Designed by
           <span className="tracking-wide uppercase font-semibold text-white">
             {" "}
-            A-R-M ❤️
+            It's Me! Aditya❤️
           </span>
         </div>
       </div>

@@ -168,7 +168,7 @@ const Experience = () => {
             {/* Center Point */}
             <div className="relative">
               <p className="absolute top-2 md:-top-3 left-14 text-sm whitespace-nowrap">
-                Jan 2025 - Apr 2025
+                Jan 2025 - Ongoing
               </p>
               <div className="md:block hidden w-6 h-6 bg-[#1B1535] rounded-full absolute left-1/2 transform -translate-x-1/2 -translate-y-1/2 border-4 border-[#1595B6] shadow-glow"></div>
             </div>
